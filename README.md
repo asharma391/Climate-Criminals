@@ -1,6 +1,6 @@
 # Climate Criminals
 
-Honourable mention at the HackKurius hackathon out of 937 participants.
+Honourable mention @ HackKurius out of 937 participants.
 
 ## Inspiration
 
