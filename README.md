@@ -26,6 +26,9 @@ Clean, functional product that should be very helpful in guiding users towards m
 
 Much about Javascript: visual design and OOP mechanisms.
 
+<img width="580" height="573" alt="image" src="https://github.com/user-attachments/assets/b19ccd76-b63b-48f4-8fd7-bebf482b9acb" />
+
+
 ## What's next for Climate Criminals
 
 Further bolstering data accuracy; potentially incorporating personalized suggestions based on the company being highlighted at the moment (e.g. if  is being highlighted on the given page the user is browsing, the extension popup page would show a personalized sustainable tech company that sells the same types of products  sells).
