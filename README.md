@@ -1,6 +1,6 @@
 # Climate Criminals
 
-Honourable mention @ HackKurius out of 937 participants. Empower consumers with objective environmental company information to inform eco-friendly decisions!
+Honourable mention @ HackSwift out of 937 participants. Empower consumers with objective environmental company information to inform eco-friendly decisions!
 
 ## Inspiration
 
