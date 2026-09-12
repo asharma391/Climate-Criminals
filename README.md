@@ -1,6 +1,6 @@
 # Climate Criminals
 
-### 🏅 Prize-Winning Project at HackSwift
+### 🏅 Winner @ HackSwift '24
 
 [![Tests](https://img.shields.io/badge/tests-8_passing-78513b?style=flat-square)](tests)
 ![React](https://img.shields.io/badge/React-19-78513b?style=flat-square)
