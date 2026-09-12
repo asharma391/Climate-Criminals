@@ -4,7 +4,7 @@
 
 ### See the company. Read the evidence.
 
-**🏅 Winner at HackSwift hackathon**
+**🏅 Prize-Winning Project at HackSwift**
 
 [![Tests](https://img.shields.io/badge/tests-8_passing-78513b?style=flat-square)](tests)
 ![React](https://img.shields.io/badge/React-19-78513b?style=flat-square)
