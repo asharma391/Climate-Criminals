@@ -4,7 +4,7 @@
 
 ### See the company. Read the evidence.
 
-**🏅 Honourable Mention at HackSwift**
+**🏅 Winner at HackSwift hackathon**
 
 [![Tests](https://img.shields.io/badge/tests-8_passing-78513b?style=flat-square)](tests)
 ![React](https://img.shields.io/badge/React-19-78513b?style=flat-square)
