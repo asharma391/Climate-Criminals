@@ -18,8 +18,6 @@
 
 Climate Criminals adds an environmental context layer to the web. It recognizes company names in page text and connects them to attributed reporting and research through accessible, source-linked cards. A searchable React catalogue puts the evidence, publisher, and publication date in one place.
 
-<p align="center"><img src="docs/images/dashboard.png" width="480" alt="Climate Criminals popup with source-linked company records and search controls" /></p>
-
 ## What it does
 
 - **Context in the page.** Company mentions become keyboard-accessible highlights. Open a card, inspect the source, and return to the page with Escape.
