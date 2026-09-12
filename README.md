@@ -1,10 +1,6 @@
-<div align="center">
-
 # Climate Criminals
 
-### See the company. Read the evidence.
-
-**🏅 Prize-Winning Project at HackSwift**
+### 🏅 Prize-Winning Project at HackSwift
 
 [![Tests](https://img.shields.io/badge/tests-8_passing-78513b?style=flat-square)](tests)
 ![React](https://img.shields.io/badge/React-19-78513b?style=flat-square)
@@ -13,8 +9,6 @@
 [![License](https://img.shields.io/badge/License-GPLv3-78513b?style=flat-square)](LICENSE)
 
 [Get started](#get-started) · [Architecture](docs/architecture.md) · [Data & sources](docs/data.md) · [Privacy](docs/privacy.md)
-
-</div>
 
 Climate Criminals adds an environmental context layer to the web. It recognizes company names in page text and connects them to attributed reporting and research through accessible, source-linked cards. A searchable React catalogue puts the evidence, publisher, and publication date in one place.
 
